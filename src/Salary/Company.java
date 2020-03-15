@@ -3,7 +3,7 @@ package Salary;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Company implements SalaryService {
+public class Company extends SalaryService {
     private String name;
     private double budget;
     private Set<Employee> employees = new HashSet<>();

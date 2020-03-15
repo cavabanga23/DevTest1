@@ -1,8 +1,7 @@
 package Salary;
 
-public interface SalaryService {
+public class SalaryService {
     void pay(Company company){
-
     }
 }
 

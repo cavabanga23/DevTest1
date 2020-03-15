@@ -1,3 +1,4 @@
+package Salary;
 
 
 public class Manager extends Employee {
